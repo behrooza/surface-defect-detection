@@ -1,5 +1,5 @@
 [project]
-name = "syrface-defect-detection"
+name = "surface-defect-detection"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -16,7 +16,7 @@ dependencies = [
 ]
 
 [project.scripts]
-syrface-defect-detection = "syrface_defect_detection:main"
+surface-defect-detection = "surface_defect_detection:main"
 
 [build-system]
 requires = ["uv_build>=0.12.19,<0.13.0"]
